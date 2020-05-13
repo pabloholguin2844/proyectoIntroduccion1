@@ -1,3 +1,39 @@
-header{
-    
+header {
+    background-color: #A4E475 ;
+}
+body{
+    background-color: #A4E475
+}
+footer{
+    background-color: #A4E475
+}
+
+#Titulo {
+font-size: 35px;
+font-style: italic;
+text-align: center;
+font-family: Cancillería URW;
+color: #3774C6 ;
+}
+
+#Lista1{
+    font-size: 20px;
+    font-family: Cancillería URW;
+    font-style: italic;
+    text-align: left;
+    color: #72A8F1;
+}
+#Lista2{
+    font-size: 20px;
+    font-family: Cancillería URW;
+    font-style: italic;
+    text-align: left;
+    color: #72A8F1;
+}
+#Lista3{
+    font-size: 20px;
+    font-family: Cancillería URW;
+    font-style: italic;
+    text-align: left;
+    color: #72A8F1;
 }
